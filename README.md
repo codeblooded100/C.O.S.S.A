@@ -12,3 +12,7 @@ priorities:
 -3d mapping of college
 -detailed information on societies & functions
 -available social links 
+
+
+
+All Pushes Should Be Made To Main !!!
